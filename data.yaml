@@ -1,0 +1,16 @@
+names:
+- bread
+- ice_cream
+- orange
+- pepper
+- pumpkin
+nc: 5
+roboflow:
+  license: Public Domain
+  project: hard-hat-sample-wfeoy
+  url: https://app.roboflow.com/robot-oplhu/hard-hat-sample-wfeoy/7
+  version: 7
+  workspace: robot-oplhu
+test: D:\yolo\yolov10\datasets\test\images
+train: D:\yolo\yolov10\datasets\train\images
+val: D:\yolo\yolov10\datasets\valid\images
